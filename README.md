@@ -32,7 +32,7 @@ Part 4: การคาดการณ์ปริมาณการผลิต
 กราฟที่ 2 แสดงข้อมูลการผลิตรถยนต์แยกตามภูมิภาค  (**ไม่ใช่ค่าเฉลี่ยนะ หัวกราฟใน excel ตัด average ออก)
 
 
-
+![figure_1](https://github.com/maxvcbhan/DADS5001-car-production/blob/main/figure/figure1_car_production_by_region.png)
 
 
 
