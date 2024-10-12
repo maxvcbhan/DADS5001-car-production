@@ -16,6 +16,8 @@ Part 4: การคาดการณ์ปริมาณการผลิต
 
 Part 1: ภาพรวมการผลิตรถยนต์สันดาปทั่วโลก
 จากข้อมูลฐานการผลิตรถยนต์ทั่วโลก จะแบ่งเป็น 5 ภูมิภาค โดยในแต่ละภูมิภาคประกอบประเทศต่างๆ ดังนี้
-
 ![image](https://github.com/user-attachments/assets/5bdcbe1b-942e-4891-bc36-794af44d34b7)
+
+และในส่วนข้อมูลรถยนต์จะจัดเป็น segment ดังนี้
+![image](https://github.com/user-attachments/assets/88deebbd-e10b-49ed-9ef0-7c6f2fbfa31d)
 
