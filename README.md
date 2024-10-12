@@ -35,5 +35,6 @@ Part 4: การคาดการณ์ปริมาณการผลิต
 ![figure_1](https://github.com/maxvcbhan/DADS5001-car-production/blob/main/figure/figure1_car_production_by_region.png)
 
 
+https://github.com/maxvcbhan/DADS5001-car-production/blob/main/figure/figure1_car_production_by_region.png
 
 
