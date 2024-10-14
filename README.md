@@ -149,4 +149,5 @@ Part 3: การศึกษาปัจจัยที่มีผลกระ
   
 4. ไทย (Thailand)   
 พบความสัมพันธ์ที่มีนัยสำคัญระหว่างจำนวนการผลิตรถยนต์ Car Production (SUV), Car Production (MPV) Car Production (Unclassified) กับ จำนวนประชากร GDP และ GDP ต่อหัว
-![image](https://github.com/user-attachments/assets/ef0b9fa1-5a1c-4348-84b5-1b26d2116300)
+![image](https://github.com/user-attachments/assets/1f6a5d9f-4865-4722-af0a-132bfae272ce)
+
