@@ -136,6 +136,13 @@ Part 3: การศึกษาปัจจัยที่มีผลกระ
 
 จากข้อมูลข้างต้น สำหรับประเทศที่ไม่พบความสัมพันธ์ จึงทำการศึกษาเพิ่มเติมในระดับ Group Sement ได้ผลดังนี้
 1. จีน (China)
+
+![image](https://github.com/user-attachments/assets/e4977c10-31aa-4f5c-8d5d-61acc07f66e2)
+
 2. อินโดนีเซีย (Indonesia)
-6. มาเลเซีย (Malaysia)
-7. ไทย (Thailand)   
+
+   
+3. มาเลเซีย (Malaysia)
+
+  
+4. ไทย (Thailand)   
