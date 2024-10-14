@@ -45,7 +45,7 @@ Part 3: การศึกษาปัจจัยที่มีผลกระ
 
 
   ถัดมาจะไปดูวิเคราะห์ในมุมของ group segment กันบ้าง จากกราฟที่ 4 จะแสดงสัดส่วนการผลิตรถยนต์ จะเห็นว่า รถยนต์ Passenger มีสัดส่วนสูงที่สุดที่ 42% และรถ SUV จะมีสัดส่วนรองลงมาอยู่ที่ 33%
-![image](https://github.com/user-attachments/assets/ab8c9697-9685-4970-83b6-328497028b41)
+![image](https://github.com/user-attachments/assets/759ed022-7117-4086-8cdd-38dc8eabbf1f)
 <p align="center"> กราฟที่ 4 แสดงสัดส่วนการผลิตรถยนต์ แบ่งตาม group segment <br>
   
 
