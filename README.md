@@ -134,19 +134,19 @@ Part 3: การศึกษาปัจจัยที่มีผลกระ
 - ประเทศอื่นๆ เช่น จีน อินโดนีเซีย มาเลเซีย และไทย ไม่แสดงความสัมพันธ์ที่ชัดเจนระหว่างการผลิตรถยนต์กับปัจจัยที่ศึกษา
 
 
-จากข้อมูลข้างต้น สำหรับประเทศที่ไม่พบความสัมพันธ์ จึงทำการศึกษาเพิ่มเติมในระดับ Group Sement ได้ผลดังนี้
+จากข้อมูลข้างต้น สำหรับประเทศที่ไม่พบความสัมพันธ์ในภาพรวม จึงทำการศึกษาเพิ่มเติมในระดับ Group Sement ได้ผลดังนี้
 1. จีน (China)
-
+พบความสัมพันธ์ที่มีนัยสำคัญระหว่างจำนวนการผลิตรถยนต์ Car Production (Passenger), Car Production (SUV), Car Production (MPV) กับ จำนวนประชากร GDP และ GDP ต่อหัว
 ![image](https://github.com/user-attachments/assets/99819c00-f556-45f2-8a97-8ebf1c88a97a)
 
-2. อินโดนีเซีย (Indonesia)
-
+3. อินโดนีเซีย (Indonesia)
+พบความสัมพันธ์ที่มีนัยสำคัญระหว่างจำนวนการผลิตรถยนต์ Car Production (Passenger), Car Production (SUV), Car Production (Unclassified) กับ จำนวนประชากร GDP และ GDP ต่อหัว
 ![image](https://github.com/user-attachments/assets/3fd5a777-f567-456b-8416-c538f68b1837)
 
 3. มาเลเซีย (Malaysia)
-
+พบความสัมพันธ์ที่มีนัยสำคัญระหว่างจำนวนการผลิตรถยนต์ Car Production (SUV) กับ จำนวนประชากร GDP และ GDP ต่อหัว
 ![image](https://github.com/user-attachments/assets/36e667f0-92e3-46e2-b1ce-5732732868c3)
   
 4. ไทย (Thailand)   
-
+พบความสัมพันธ์ที่มีนัยสำคัญระหว่างจำนวนการผลิตรถยนต์ Car Production (SUV), Car Production (MPV) Car Production (Unclassified) กับ จำนวนประชากร GDP และ GDP ต่อหัว
 ![image](https://github.com/user-attachments/assets/ef0b9fa1-5a1c-4348-84b5-1b26d2116300)
