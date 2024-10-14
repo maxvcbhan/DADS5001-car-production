@@ -84,7 +84,7 @@ Part 3: การศึกษาปัจจัยที่มีผลกระ
 
 ![image](https://github.com/user-attachments/assets/6593ed73-88bb-4b20-ab5f-c661c0ebe0ac)
 
-    <p align="center"> กราฟที่ 8 แสดงจำนวนการผลิตรถยนต์ของประเทศภายในภูมิภาค Asia
+<p align="center"> กราฟที่ 8 แสดงจำนวนการผลิตรถยนต์ของประเทศภายในภูมิภาค Asia
 
   
 
