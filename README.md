@@ -141,8 +141,12 @@ Part 3: การศึกษาปัจจัยที่มีผลกระ
 
 2. อินโดนีเซีย (Indonesia)
 
-   
+![image](https://github.com/user-attachments/assets/3fd5a777-f567-456b-8416-c538f68b1837)
+
 3. มาเลเซีย (Malaysia)
 
+![image](https://github.com/user-attachments/assets/36e667f0-92e3-46e2-b1ce-5732732868c3)
   
 4. ไทย (Thailand)   
+
+![image](https://github.com/user-attachments/assets/ef0b9fa1-5a1c-4348-84b5-1b26d2116300)
