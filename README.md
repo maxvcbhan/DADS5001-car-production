@@ -19,7 +19,7 @@ Part 3: การศึกษาปัจจัยที่มีผลกระ
 
 <br> จากข้อมูลฐานการผลิตรถยนต์ทั่วโลก จะแบ่งเป็น 5 ภูมิภาค โดยในแต่ละภูมิภาคประกอบประเทศต่างๆ ดังนี้
 
-![image](https://github.com/user-attachments/assets/e16d8233-6aa2-42c3-bb03-9a0423d6832e) <br>
+![image](https://github.com/user-attachments/assets/7a0b6e3d-5f73-4171-9c87-5c4c724e27fa)
 
 
 และในส่วนข้อมูลรถยนต์จะจัดเป็น group segment และกลุ่ม segment ย่อย ดังนี้
