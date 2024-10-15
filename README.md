@@ -33,7 +33,8 @@ Part 3: การศึกษาปัจจัยที่มีผลกระ
 ![image](https://github.com/user-attachments/assets/bba45597-aae0-43f0-8bcf-5e26ab299dc9)
 
 
-![image](https://github.com/user-attachments/assets/d4dbb9f2-918f-47dd-a690-0694db0fa0ca)
+![image](https://github.com/user-attachments/assets/e4d299ba-2f29-4710-adae-cbddc83ed721)
+
 
 
 
