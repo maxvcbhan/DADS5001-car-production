@@ -20,12 +20,12 @@
 
 > จากข้อมูลฐานการผลิตรถยนต์ทั่วโลก จะแบ่งเป็น 5 ภูมิภาค โดยในแต่ละภูมิภาคประกอบประเทศต่างๆ ดังนี้
 
-![image](https://github.com/user-attachments/assets/7a0b6e3d-5f73-4171-9c87-5c4c724e27fa)
 
+![image](figure/table_country.png)
 
 และในส่วนข้อมูลรถยนต์จะจัดเป็น group segment และกลุ่ม segment ย่อย ดังนี้
 
-![image](https://github.com/user-attachments/assets/31a3b3a2-8bcc-48db-a506-55bf6fbc6d63) <br>
+![image](figure/table_group_segment.png) <br>
 
 
 ![image](https://github.com/user-attachments/assets/5a0698bc-e2be-4bb6-9096-35fe25acd3ac)
