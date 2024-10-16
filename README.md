@@ -221,7 +221,7 @@
 7. ปัจจัยทางเศรษฐกิจ ได้แก่ ประชากร  GDP และ GDP per capita มีความสัมพันธ์เชิงบวกที่สูงระหว่างกัน (0.72-1.00)
 
 ![image](figure/fig_heatmap_thailand.png)
-https://github.com/maxvcbhan/DADS5001-car-production/blob/main/figure/fig_heatmap_thailand.png
+
 **ข้อสังเกต**
 -	การผลิตรถ SUV และรถที่ไม่ได้จำแนกประเภทมีความสัมพันธ์เชิงบวกที่ชัดเจนกับปัจจัยทางเศรษฐกิจ
 -	การผลิตรถยนต์นั่งส่วนบุคคลและ MPV มีความสัมพันธ์เชิงลบกับปัจจัยทางเศรษฐกิจ
