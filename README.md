@@ -159,7 +159,7 @@
 
 **<u>จีน (China)</u>**
 
-จากแผนภาพ Spearman Correlation Heatmap ของจีน ผลการวิเคราะห์ความสัมพันธ์ในระดับ Group Segment ดังนี้
+จากแผนภาพ Spearman Correlation Heatmap ของประเทศจีน ผลการวิเคราะห์ความสัมพันธ์ในระดับ Group Segment ดังนี้
 1. การผลิตรถยนต์โดยรวม (Car Production (All)) มีความสัมพันธ์เชิงบวกที่ค่อนข้างสูงกับการผลิต SUV (0.73) และรถกระบะ (Pickup) (0.71) และมีความสัมพันธ์เชิงบวกปานกลางกับ GDP และ GDP per capita (0.33)
 2. การผลิตรถยนต์นั่งส่วนบุคคล (Car Production (Passenger)) มีความสัมพันธ์เชิงบวกที่สูงมากกับการผลิต MPV (0.82) มีความสัมพันธ์เชิงลบที่สูงมากกับประชากร (-0.88), GDP (-0.81) และ GDP per capita (-0.81)
 3. การผลิตรถ SUV (Car Production (SUV)) มีความสัมพันธ์เชิงบวกที่สูงกับ GDP (0.79) และ GDP per capita (0.79) และมีความสัมพันธ์เชิงบวกที่สูงกับประชากร (0.71)
@@ -168,7 +168,7 @@
 6. ปัจจัยทางเศรษฐกิจ ได้แก่ ประชากร  GDP และ GDP per capita มีความสัมพันธ์เชิงบวกที่สูงมากระหว่างกัน (0.98-1.00)
 >
 ![image](figure/fig_heatmap_china.png)
-<p align="center"> รูปที่ 2 แผนภาพ heatmap แสดงความสัมพันธ์กันระหว่างปัจจัยต่างๆ ของจีน ด้วยสถิติ Spearman <br>
+<p align="center"> รูปที่ 2 แผนภาพ heatmap แสดงความสัมพันธ์กันระหว่างปัจจัยต่างๆ ของประเทศจีน ด้วยสถิติ Spearman <br>
   
 **ข้อสังเกต**
 -	การผลิตรถ SUV มีความสัมพันธ์เชิงบวกที่ชัดเจนกับปัจจัยทางเศรษฐกิจทั้งหมด
@@ -240,13 +240,15 @@
 dataset : 
 https://github.com/maxvcbhan/DADS5001-car-production/blob/main/data/data_1.csv
 
-ข้อมูลอ้างอิง
+## ข้อมูลอ้างอิง
 GDP (current US$) : https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+>
 GDP per capita (current US$) : https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+>
 Population : https://data.worldbank.org/indicator/SP.POP.TOTL
-
+>
 coding : 
 https://github.com/maxvcbhan/DADS5001-car-production/blob/main/production_car_coding.ipynb
-
+>
 chart: 
 https://github.com/maxvcbhan/DADS5001-car-production/tree/main/figure
