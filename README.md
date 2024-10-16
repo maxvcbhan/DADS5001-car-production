@@ -241,9 +241,9 @@ dataset :
 https://github.com/maxvcbhan/DADS5001-car-production/blob/main/data/data_1.csv
 
 ข้อมูลอ้างอิง
-GDP : GDP (current US$) | Data (worldbank.org)
-GDP Per Capita : GDP per capita (current US$) | Data Population : (worldbank.org)
-Population, total | Data (worldbank.org)
+GDP (current US$) : https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+GDP per capita (current US$) : https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+Population : https://data.worldbank.org/indicator/SP.POP.TOTL
 
 coding : 
 https://github.com/maxvcbhan/DADS5001-car-production/blob/main/production_car_coding.ipynb
