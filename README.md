@@ -234,3 +234,19 @@
 -	รูปแบบความสัมพันธ์ในไทยมีความแตกต่างจากประเทศอื่น ๆ ที่วิเคราะห์มาก่อนหน้านี้ โดยเฉพาะในส่วนของการผลิตรถกระบะและความสัมพันธ์ระหว่างการผลิตรถยนต์โดยรวมกับปัจจัยทางเศรษฐกิจ
 
 การวิเคราะห์นี้แสดงให้เห็นว่า อุตสาหกรรมยานยนต์ของไทย มีลักษณะเฉพาะที่แตกต่างจากประเทศอื่น ๆ ในภูมิภาค โดยเฉพาะอย่างยิ่งในส่วนของการผลิตรถกระบะที่ไม่แสดงความสัมพันธ์ชัดเจนกับปัจจัยใด ๆ ซึ่งอาจสะท้อนถึงความเป็นผู้นำในการผลิตรถกระบะของไทยที่อาจไม่ได้ขึ้นอยู่กับปัจจัยทางเศรษฐกิจมากนัก
+
+***
+
+dataset : 
+https://github.com/maxvcbhan/DADS5001-car-production/blob/main/data/data_1.csv
+
+ข้อมูลอ้างอิง
+GDP : GDP (current US$) | Data (worldbank.org)
+GDP Per Capita : GDP per capita (current US$) | Data Population : (worldbank.org)
+Population, total | Data (worldbank.org)
+
+coding : 
+https://github.com/maxvcbhan/DADS5001-car-production/blob/main/production_car_coding.ipynb
+
+chart: 
+https://github.com/maxvcbhan/DADS5001-car-production/tree/main/figure
