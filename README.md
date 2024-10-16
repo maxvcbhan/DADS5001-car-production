@@ -224,7 +224,7 @@
 6. การผลิตรถที่ไม่ได้จำแนกประเภท (Car Production (Unclassified)) มีความสัมพันธ์เชิงบวกที่สูงกับประชากร (0.85) GDP (0.71) และ GDP per capita (0.71) แต่มีความสัมพันธ์เชิงลบที่สูงกับการผลิต MPV (-0.62)
 7. ปัจจัยทางเศรษฐกิจ ได้แก่ ประชากร  GDP และ GDP per capita มีความสัมพันธ์เชิงบวกที่สูงระหว่างกัน (0.72-1.00)
 
-![image](figure/fig_heatmap_thailand.png | width=300)
+![image](figure/fig_heatmap_thailand.png|width=300)
 <p align="center"> รูปที่ 5 แผนภาพ heatmap แสดงความสัมพันธ์กันระหว่างปัจจัยต่างๆ ของประเทศไทย ด้วยสถิติ Spearman <br>
   
 **ข้อสังเกต**
