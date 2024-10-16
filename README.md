@@ -165,7 +165,7 @@
 5. การผลิตรถ MPV (Car Production (MPV)) มีความสัมพันธ์เชิงลบที่สูงมากกับประชากร (-0.88), GDP (-0.88) และ GDP per capita (-0.88)
 6. ปัจจัยทางเศรษฐกิจ ได้แก่ ประชากร  GDP และ GDP per capita มีความสัมพันธ์เชิงบวกที่สูงมากระหว่างกัน (0.98-1.00)
 >
-![image](https://github.com/user-attachments/assets/99819c00-f556-45f2-8a97-8ebf1c88a97a)
+![image](https://github.com/user-attachments/assets/5ead88f4-9df5-4547-98a0-c53ce764a392)
 
 **ข้อสังเกต**
 -	การผลิตรถ SUV มีความสัมพันธ์เชิงบวกที่ชัดเจนกับปัจจัยทางเศรษฐกิจทั้งหมด
