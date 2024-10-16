@@ -26,6 +26,7 @@
 ![image](figure/table_group_segment.png) <br>
 <p align="center"> ตารางที่ 2 จำแนกประเภทรถยนต์ตาม Group Segment และ Segment ย่อย <br>
 
+
 ![image](https://github.com/user-attachments/assets/5a0698bc-e2be-4bb6-9096-35fe25acd3ac)
 
 
@@ -33,7 +34,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/e4d299ba-2f29-4710-adae-cbddc83ed721)
-
+<p align="center"> รูปที่ 1 รูปประเภทรถยนต์ Passenger, SUV, MPV  และ Pickup Truck ตามลำดับ <br>
 
 
 
