@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;โดยมีการจำแนกประเภทรถยนต์ตาม Group Segment และ Segment ย่อย เป็น 5 กลุ่ม ได้แก่ MPV (Multi-Purpose Vehicle)  Passenger (รถยนต์นั่งส่วนบุคคล)  Pickup Truck (รถกระบะ) SUV (Sport Utility Vehicle) และ Unclassified ตาม**ตารางที่ 2**
 
 ![image](figure/table_group_segment.png) <br>
-<p align="center"> ตารางที่ 2 การวิเคราะห์ความสัมพันธ์ระหว่างจำนวนการผลิตรถยนต์กับปัจจัยทางเศรษฐกิจ (ประชากร, GDP และ GDP ต่อหัว) <br>
+<p align="center"> ตารางที่ 2 จำแนกประเภทรถยนต์ตาม Group Segment และ Segment ย่อย <br>
 
 
 ![image](https://github.com/user-attachments/assets/5a0698bc-e2be-4bb6-9096-35fe25acd3ac)
