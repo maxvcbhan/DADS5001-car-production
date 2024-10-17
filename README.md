@@ -18,7 +18,7 @@
 
 
 ![image](figure/table_country.png) <br>
-<p align="center"> ตารางที่ 1 รายชื่อประเทศฐานการผลิตรถยนต์ทั่วโลกที่สำคัญ แบ่งตาม 5 ภูมิภาคหลัก <br>
+<p align="center"> ตารางที่ 1 รายชื่อประเทศที่เป็นฐานการผลิตรถยนต์ทั่วโลก <br>
 
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;โดยมีการจำแนกประเภทรถยนต์ตาม Group Segment และ Segment ย่อย เป็น 5 กลุ่ม ได้แก่ MPV (Multi-Purpose Vehicle)  Passenger (รถยนต์นั่งส่วนบุคคล)  Pickup Truck (รถกระบะ) SUV (Sport Utility Vehicle) และ Unclassified ตาม**ตารางที่ 2**
@@ -34,7 +34,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/e4d299ba-2f29-4710-adae-cbddc83ed721)
-<p align="center"> รูปที่ 1 รูปประเภทรถยนต์ Passenger, SUV, MPV  และ Pickup Truck ตามลำดับ <br>
+<p align="center"> รูปที่ 1 ประเภทรถยนต์ Passenger, SUV, MPV  และ Pickup Truck ตามลำดับ <br>
 
 
 
