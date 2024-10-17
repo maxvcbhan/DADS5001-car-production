@@ -160,12 +160,12 @@ nn
 **<u>จีน (China)</u>**
 
 &nbsp;&nbsp;&nbsp;&nbsp;จากแผนภาพ Spearman Correlation Heatmap ของประเทศจีน ผลการวิเคราะห์**ขนาดและทิศทาง**ความสัมพันธ์ในระดับ Group Segment ดังนี้
-1. การผลิตรถยนต์โดยรวม (Car Production (All)) มีความสัมพันธ์เชิงบวกที่ค่อนข้างสูงกับการผลิต SUV ( $${\color{greenyellow}0.73}$$  ) และรถกระบะ (Pickup) ( $${\color{greenyellow}0.71}$$  ) และมีความสัมพันธ์เชิงบวกปานกลางกับ GDP และ GDP per capita ( $${\color{greenyellow}0.33}$$  )
-2. การผลิตรถยนต์นั่งส่วนบุคคล (Car Production (Passenger)) มีความสัมพันธ์เชิงบวกที่สูงมากกับการผลิต MPV ( $${\color{greenyellow}0.82}$$  ) มีความสัมพันธ์เชิงลบที่สูงมากกับประชากร ( $${\color{fuchsia}-0.88}$$  ), GDP ( $${\color{fuchsia}-0.81}$$  ) และ GDP per capita ( $${\color{fuchsia}-0.81}$$  )
-3. การผลิตรถ SUV (Car Production (SUV)) มีความสัมพันธ์เชิงบวกที่สูงกับ GDP ( $${\color{greenyellow}0.79}$$  ) และ GDP per capita ( $${\color{greenyellow}0.79}$$  ) และมีความสัมพันธ์เชิงบวกที่สูงกับประชากร ( $${\color{greenyellow}0.71}$$  )
+1. การผลิตรถยนต์โดยรวม (Car Production (All)) มีความสัมพันธ์เชิงบวกที่ค่อนข้างสูงกับการผลิต SUV ( $${\color{yellowgreen}0.73}$$  ) และรถกระบะ (Pickup) ( $${\color{yellowgreen}0.71}$$  ) และมีความสัมพันธ์เชิงบวกปานกลางกับ GDP และ GDP per capita ( $${\color{yellowgreen}0.33}$$  )
+2. การผลิตรถยนต์นั่งส่วนบุคคล (Car Production (Passenger)) มีความสัมพันธ์เชิงบวกที่สูงมากกับการผลิต MPV ( $${\color{yellowgreen}0.82}$$  ) มีความสัมพันธ์เชิงลบที่สูงมากกับประชากร ( $${\color{fuchsia}-0.88}$$  ), GDP ( $${\color{fuchsia}-0.81}$$  ) และ GDP per capita ( $${\color{fuchsia}-0.81}$$  )
+3. การผลิตรถ SUV (Car Production (SUV)) มีความสัมพันธ์เชิงบวกที่สูงกับ GDP ( $${\color{yellowgreen}0.79}$$  ) และ GDP per capita ( $${\color{yellowgreen}0.79}$$  ) และมีความสัมพันธ์เชิงบวกที่สูงกับประชากร ( $${\color{yellowgreen}0.71}$$  )
 4. การผลิตรถกระบะ (Car Production (Pickup)) มีความสัมพันธ์เชิงลบที่ค่อนข้างสูงกับการผลิตรถที่ไม่ได้จำแนกประเภท (Unclassified) ( $${\color{fuchsia}-0.77}$$  )
 5. การผลิตรถ MPV (Car Production (MPV)) มีความสัมพันธ์เชิงลบที่สูงมากกับประชากร ( $${\color{fuchsia}-0.88}$$  ), GDP ( $${\color{fuchsia}-0.88}$$  ) และ GDP per capita ( $${\color{fuchsia}-0.88}$$  )
-6. ปัจจัยทางเศรษฐกิจ ได้แก่ ประชากร  GDP และ GDP per capita มีความสัมพันธ์เชิงบวกที่สูงมากระหว่างกัน ( $${\color{greenyellow}0.98-1.00}$$  )
+6. ปัจจัยทางเศรษฐกิจ ได้แก่ ประชากร  GDP และ GDP per capita มีความสัมพันธ์เชิงบวกที่สูงมากระหว่างกัน ( $${\color{yellowgreen}0.98-1.00}$$  )
 >
 ![image](figure/fig_heatmap_china.png?)
 <p align="center"> รูปที่ 2 แผนภาพ heatmap แสดงขนาดและทิศทางความสัมพันธ์กันระหว่างปัจจัยต่างๆ ของประเทศจีน ด้วยสถิติ Spearman <br>
