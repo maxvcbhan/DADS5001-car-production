@@ -167,7 +167,7 @@
 5. การผลิตรถ MPV (Car Production (MPV)) มีความสัมพันธ์เชิงลบที่สูงมากกับประชากร ( $${\color{fuchsia}-0.88}$$  ), GDP ( $${\color{fuchsia}-0.88}$$  ) และ GDP per capita ( $${\color{fuchsia}-0.88}$$  )
 6. ปัจจัยทางเศรษฐกิจ ได้แก่ ประชากร  GDP และ GDP per capita มีความสัมพันธ์เชิงบวกที่สูงมากระหว่างกัน ( $${\color{yellowgreen}0.98-1.00}$$  )
 >
-![image](figure/fig_heatmap_china.png?)
+![image](figure/fig_heatmap_china.PNG)
 <p align="center"> รูปที่ 2 แผนภาพ heatmap แสดงขนาดและทิศทางความสัมพันธ์กันระหว่างปัจจัยต่างๆ ของประเทศจีน ด้วยสถิติ Spearman <br>
   
 <ins>**ข้อสังเกต**</ins>
