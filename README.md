@@ -25,7 +25,7 @@
 
 ![image](figure/table_group_segment.png) <br>
 <p align="center"> ตารางที่ 2 จำแนกประเภทรถยนต์ตาม Group Segment และ Segment ย่อย <br>
->
+
 
 ![image](https://github.com/user-attachments/assets/5a0698bc-e2be-4bb6-9096-35fe25acd3ac)
 
